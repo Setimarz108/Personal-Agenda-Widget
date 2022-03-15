@@ -1,4 +1,7 @@
 # Personal-Agenda-Widget
+
+Built with React.js, Redux and using APIs:
+ 
 A Personal Agenda widget where the user can:
 * add, check and delete todos to a list
 * see the current weather (Data from OpenWeatherAPI)
